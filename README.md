@@ -1,4 +1,4 @@
-# Collage_project
+# College_project
 Topic : "Secure Communication"
 In this project we can use only three encryption algorithms : MD5, AES, DES.
 we will use MD5 for hashing the password and AES for encrypting the message of the user.
